@@ -1,0 +1,50 @@
+[
+  {
+    "created": 1551039690000,
+    "duration": 5400000,
+    "id": "259247127",
+    "name": "Lazy Loading",
+    "date_in_series_pattern": false,
+    "status": "upcoming",
+    "time": 1551745800000,
+    "local_date": "2019-03-04",
+    "local_time": "18:30",
+    "updated": 1551039690000,
+    "utc_offset": -21600000,
+    "waitlist_count": 0,
+    "yes_rsvp_count": 34,
+    "venue": {
+      "id": 1041264,
+      "name": "Improving",
+      "lat": 33.07765579223633,
+      "lon": -96.80937957763672,
+      "repinned": false,
+      "address_1": "5445 Legacy Dr",
+      "address_2": "Suite 100",
+      "city": "Plano",
+      "country": "us",
+      "localized_country_name": "USA",
+      "phone": "214.613.4444",
+      "zip": "75024",
+      "state": "TX"
+    },
+    "group": {
+      "created": 1421770786000,
+      "name": "Dallas Angular SuperHeros",
+      "id": 18357793,
+      "join_mode": "open",
+      "lat": 32.959999084472656,
+      "lon": -96.83000183105469,
+      "urlname": "DallasAngularJS",
+      "who": "superheros",
+      "localized_location": "Addison, TX",
+      "state": "TX",
+      "country": "us",
+      "region": "en_US",
+      "timezone": "US/Central"
+    },
+    "link": "https://www.meetup.com/DallasAngularJS/events/259247127/",
+    "description": "<p>We will creating lazy loading modules. We will talk the routing, how to share common code, the danger of undue references, and lazy loading from a library.</p> ",
+    "visibility": "public"
+  }
+]

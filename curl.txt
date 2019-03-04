@@ -1,0 +1,5 @@
+https://api.meetup.com/DallasAngularJS/events?key=d41414c2562e63231540515367d72
+https://api.meetup.com/DallasAngularJS/events/259247127/?key=d41414c2562e63231540515367d72
+https://api.meetup.com/DallasAngularJS/events/259247127/rsvps?key=d41414c2562e63231540515367d71
+https://api.meetup.com/DallasAngularJS/events/259247127/attendance?key=d41414c2562e63231540515367d72
+

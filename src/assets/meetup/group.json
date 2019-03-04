@@ -1,0 +1,61 @@
+{
+  "requestUrl": "https://api.meetup.com/DallasAngularJS/events",
+  "id": 18357793,
+  "name": "Dallas Angular SuperHeros",
+  "status": "active",
+  "link": "https://www.meetup.com/DallasAngularJS/",
+  "urlname": "DallasAngularJS",
+  "description": "<p>The Dallas AngularJS Super Heros DASH is a user group of front end AngularJS developers. We meet to broaden our knowledge on AngularJS and also other related front end technologies. The DASH meets on the fourth Tuesday of every month, with social / food at 6:30pm, and meeting content starting at 7:00pm. We meet at the Improving Enterprises office in Plano on Legacy by Hedgecox</p><p><br></p>",
+  "created": 1421770786000,
+  "city": "Addison",
+  "untranslated_city": "Addison",
+  "country": "US",
+  "localized_country_name": "USA",
+  "localized_location": "Addison, TX",
+  "state": "TX",
+  "join_mode": "open",
+  "visibility": "public",
+  "lat": 32.96,
+  "lon": -96.83,
+  "members": 1117,
+  "who": "superheros",
+  "key_photo": {
+    "id": 471166547,
+    "highres_link": "https://secure.meetupstatic.com/photos/event/b/5/d/3/highres_471166547.jpeg",
+    "photo_link": "https://secure.meetupstatic.com/photos/event/b/5/d/3/600_471166547.jpeg",
+    "thumb_link": "https://secure.meetupstatic.com/photos/event/b/5/d/3/thumb_471166547.jpeg",
+    "type": "event",
+    "base_url": "https://secure.meetupstatic.com"
+  },
+  "timezone": "US/Central",
+  "next_event": {
+    "id": "259247127",
+    "name": "Lazy Loading",
+    "yes_rsvp_count": 34,
+    "time": 1551745800000,
+    "utc_offset": -21600000
+  },
+  "category": {
+    "id": 34,
+    "name": "Tech",
+    "shortname": "tech",
+    "sort_name": "Tech"
+  },
+  "meta_category": {
+    "id": 292,
+    "shortname": "tech",
+    "name": "Tech",
+    "sort_name": "Tech",
+    "photo": {
+      "id": 450131949,
+      "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+      "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+      "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+      "type": "event",
+      "base_url": "https://secure.meetupstatic.com"
+    },
+    "category_ids": [
+      34
+    ]
+  }
+}
