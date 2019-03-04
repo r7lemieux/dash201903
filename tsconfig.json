@@ -14,9 +14,19 @@
     "typeRoots": [
       "node_modules/@types"
     ],
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "meetup": [
+        "dist/meetup"
+      ],
+      "meetup/*": [
+        "dist/meetup/*"
+      ]
+    }
   }
 }

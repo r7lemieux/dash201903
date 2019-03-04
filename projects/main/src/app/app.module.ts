@@ -10,6 +10,7 @@ import {GroupModule} from './group/group.module';
 import {EventModule} from './event/event.module';
 import {RouterModule} from '@angular/router';
 import {EventComponent} from './event/event.component';
+import {MeetupModule} from 'meetup';
 
 @NgModule({
   declarations: [
@@ -26,6 +27,7 @@ import {EventComponent} from './event/event.component';
     RouterModule,
     EventModule,
     GroupModule,
+    MeetupModule,
     AppRoutingModule,
   ],
   providers: [],
