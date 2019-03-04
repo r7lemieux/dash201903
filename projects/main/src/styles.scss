@@ -1,0 +1,38 @@
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+$primary: #4050b5;
+$action: #392;
+$action-decor: #5B4;
+$accent: #FFA;
+$warn: #F22;
+$background: #FFF;
+$app-theme: mat-dark-theme($primary, $accent, $warn);
+
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+.color-primary {
+  background-color: $primary;
+}
+
+.color-action {
+  background-color: $action;
+}
+
+.color-action-decor {
+  background-color: $action-decor;
+}
+
+.color-accent {
+  background-color: $accent;
+}
+
+.color-warn {
+  background-color: $warn;
+}
+
